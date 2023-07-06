@@ -1,0 +1,20 @@
+img {
+  width: 58px;
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+header {
+  padding: 0;
+  margin: 0;
+}
+.headerInner {
+  padding: 0;
+  margin: 0;
+}
+
+.headerInner .navbar .nav .sub {
+  color: black;
+  font-weight: 900;
+  font-size: 17px;
+}
